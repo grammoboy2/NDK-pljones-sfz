@@ -1,0 +1,25 @@
+#define $hh_ped 044
+#define $hh_spl 020
+#define $hh_bel 022
+#define $hh_grb 029
+#define $hh_ord_l 017
+#define $hh_ord_r 041
+#define $hh_rim 022
+#define $hh_top_l 018
+#define $hh_top_r 042
+#define $hh_sws 1022
+#define $hh_opn 046
+
+#include "hihats/hh_mute_steps.inc"
+
+#include "hihats/hh13_ped.inc"
+#include "hihats/hh13_spl.inc"
+#include "hihats/hh13_stx_bel.inc"
+#include "hihats/hh13_stx_grb.inc"
+#include "hihats/hh13_stx_ord_l.inc"
+#include "hihats/hh13_stx_ord_r.inc"
+#include "hihats/hh13_stx_rim.inc"
+#include "hihats/hh13_stx_top_l.inc"
+#include "hihats/hh13_stx_top_r.inc"
+//#include "hihats/hh13_stx_sws.inc"
+#include "hihats/hh13_stx_opn.inc"

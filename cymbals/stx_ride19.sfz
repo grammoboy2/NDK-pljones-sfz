@@ -1,0 +1,30 @@
+//cy_ride kit
+#define $cy_crash_18_top 25
+#define $cy_ride_20_top 27
+#define $cy_china_19_top 28
+#define $cy_splash_12_top 30
+#define $cy_splash_8_top 31
+#define $cy_crash_15_top 33
+// no cy_splash_9_top
+#define $cy_ride_19_top 34
+
+#define $cy_crash_18_ord 049
+#define $cy_ride_20_ord 051
+#define $cy_china_19_ord 052
+#define $cy_splash_12_ord 054
+#define $cy_splash_8_ord 055
+#define $cy_crash_15_ord 057
+#define $cy_splash_9_ord 058
+#define $cy_ride_19_ord 059
+
+#define $cy_ride_20_bel 53
+#define $cy_ride_19_bel 60
+
+#include "cymbals/china_19_stx.inc"
+#include "cymbals/crash_15_stx.inc"
+#include "cymbals/crash_18_stx.inc"
+#include "cymbals/ride_19_stx.inc"
+#include "cymbals/ride_20_stx.inc"
+#include "cymbals/splash_12_stx.inc"
+#include "cymbals/splash_8_stx.inc"
+#include "cymbals/splash_9_stx.inc"

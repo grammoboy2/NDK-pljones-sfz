@@ -1,0 +1,2 @@
+<region> lovel=1 hivel=63 amp_velcurve_63=1 sample=../samples/toms/tm10rock/stx/snare_on/rms/tm10wrock_stxr_rms_013x.wav
+<region> lovel=64 hivel=127 amp_velcurve_127=1 sample=../samples/toms/tm10rock/stx/snare_on/rms/tm10wrock_stxr_rms_017x.wav

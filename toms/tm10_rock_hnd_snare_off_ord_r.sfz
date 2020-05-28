@@ -1,0 +1,13 @@
+<region> lovel=1 hivel=9 amp_velcurve_9=1 sample=../samples/toms/tm10rock/hnd/snare_off/ord/tm10rock_hndr_ord_001.wav
+<region> lovel=10 hivel=18 amp_velcurve_18=1 sample=../samples/toms/tm10rock/hnd/snare_off/ord/tm10rock_hndr_ord_002.wav
+<region> lovel=19 hivel=27 amp_velcurve_27=1 sample=../samples/toms/tm10rock/hnd/snare_off/ord/tm10rock_hndr_ord_003.wav
+<region> lovel=28 hivel=37 amp_velcurve_37=1 sample=../samples/toms/tm10rock/hnd/snare_off/ord/tm10rock_hndr_ord_004.wav
+<region> lovel=38 hivel=47 amp_velcurve_47=1 sample=../samples/toms/tm10rock/hnd/snare_off/ord/tm10rock_hndr_ord_005.wav
+<region> lovel=48 hivel=57 amp_velcurve_57=1 sample=../samples/toms/tm10rock/hnd/snare_off/ord/tm10rock_hndr_ord_006.wav
+<region> lovel=58 hivel=67 amp_velcurve_67=1 sample=../samples/toms/tm10rock/hnd/snare_off/ord/tm10rock_hndr_ord_007.wav
+<region> lovel=68 hivel=77 amp_velcurve_77=1 sample=../samples/toms/tm10rock/hnd/snare_off/ord/tm10rock_hndr_ord_008.wav
+<region> lovel=78 hivel=87 amp_velcurve_87=1 sample=../samples/toms/tm10rock/hnd/snare_off/ord/tm10rock_hndr_ord_009.wav
+<region> lovel=88 hivel=97 amp_velcurve_97=1 sample=../samples/toms/tm10rock/hnd/snare_off/ord/tm10rock_hndr_ord_010.wav
+<region> lovel=98 hivel=107 amp_velcurve_107=1 sample=../samples/toms/tm10rock/hnd/snare_off/ord/tm10rock_hndr_ord_011.wav
+<region> lovel=108 hivel=117 amp_velcurve_117=1 sample=../samples/toms/tm10rock/hnd/snare_off/ord/tm10rock_hndr_ord_012.wav
+<region> lovel=118 hivel=127 amp_velcurve_127=1 sample=../samples/toms/tm10rock/hnd/snare_off/ord/tm10rock_hndr_ord_014.wav

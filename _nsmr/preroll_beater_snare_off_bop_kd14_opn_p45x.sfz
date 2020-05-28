@@ -1,0 +1,2 @@
+<region> lovel=1 hivel=63 amp_velcurve_63=1 sample=../samples/_nsmr/pre_roll/kd14bop/snare_off/opn/kd14bop_p45_opn_006x.wav
+<region> lovel=64 hivel=127 amp_velcurve_127=1 sample=../samples/_nsmr/pre_roll/kd14bop/snare_off/opn/kd14bop_p45_opn_048x.wav

@@ -1,0 +1,2 @@
+<region> lovel=1 hivel=63 amp_velcurve_63=1 sample=../samples/snares/sn12tight/stx/snare_on/rmh/sn12tight_stxr_rmh_006x.wav
+<region> lovel=64 hivel=127 amp_velcurve_127=1 sample=../samples/snares/sn12tight/stx/snare_on/rmh/sn12tight_stxr_rmh_009x.wav

@@ -1,0 +1,11 @@
+<region> lovel=1 hivel=11 amp_velcurve_11=1 sample=../samples/cymbals/cy19ride/brs/sws/cy19ride_brs_sws_001.wav
+<region> lovel=12 hivel=22 amp_velcurve_22=1 sample=../samples/cymbals/cy19ride/brs/sws/cy19ride_brs_sws_002.wav
+<region> lovel=23 hivel=33 amp_velcurve_33=1 sample=../samples/cymbals/cy19ride/brs/sws/cy19ride_brs_sws_003.wav
+<region> lovel=34 hivel=44 amp_velcurve_44=1 sample=../samples/cymbals/cy19ride/brs/sws/cy19ride_brs_sws_004.wav
+<region> lovel=45 hivel=55 amp_velcurve_55=1 sample=../samples/cymbals/cy19ride/brs/sws/cy19ride_brs_sws_005.wav
+<region> lovel=56 hivel=67 amp_velcurve_67=1 sample=../samples/cymbals/cy19ride/brs/sws/cy19ride_brs_sws_006.wav
+<region> lovel=68 hivel=79 amp_velcurve_79=1 sample=../samples/cymbals/cy19ride/brs/sws/cy19ride_brs_sws_007.wav
+<region> lovel=80 hivel=91 amp_velcurve_91=1 sample=../samples/cymbals/cy19ride/brs/sws/cy19ride_brs_sws_008.wav
+<region> lovel=92 hivel=103 amp_velcurve_103=1 sample=../samples/cymbals/cy19ride/brs/sws/cy19ride_brs_sws_009.wav
+<region> lovel=104 hivel=115 amp_velcurve_115=1 sample=../samples/cymbals/cy19ride/brs/sws/cy19ride_brs_sws_010.wav
+<region> lovel=116 hivel=127 amp_velcurve_127=1 sample=../samples/cymbals/cy19ride/brs/sws/cy19ride_brs_sws_011.wav

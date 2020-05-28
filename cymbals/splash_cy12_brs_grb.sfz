@@ -1,0 +1,12 @@
+<region> lovel=1 hivel=10 amp_velcurve_10=1 sample=../samples/cymbals/cy12splash/brs/grb/cy12splash_brs_grb_001.wav
+<region> lovel=11 hivel=20 amp_velcurve_20=1 sample=../samples/cymbals/cy12splash/brs/grb/cy12splash_brs_grb_002.wav
+<region> lovel=21 hivel=30 amp_velcurve_30=1 sample=../samples/cymbals/cy12splash/brs/grb/cy12splash_brs_grb_003.wav
+<region> lovel=31 hivel=40 amp_velcurve_40=1 sample=../samples/cymbals/cy12splash/brs/grb/cy12splash_brs_grb_004.wav
+<region> lovel=41 hivel=50 amp_velcurve_50=1 sample=../samples/cymbals/cy12splash/brs/grb/cy12splash_brs_grb_005.wav
+<region> lovel=51 hivel=61 amp_velcurve_61=1 sample=../samples/cymbals/cy12splash/brs/grb/cy12splash_brs_grb_006.wav
+<region> lovel=62 hivel=72 amp_velcurve_72=1 sample=../samples/cymbals/cy12splash/brs/grb/cy12splash_brs_grb_007.wav
+<region> lovel=73 hivel=83 amp_velcurve_83=1 sample=../samples/cymbals/cy12splash/brs/grb/cy12splash_brs_grb_008.wav
+<region> lovel=84 hivel=94 amp_velcurve_94=1 sample=../samples/cymbals/cy12splash/brs/grb/cy12splash_brs_grb_009.wav
+<region> lovel=95 hivel=105 amp_velcurve_105=1 sample=../samples/cymbals/cy12splash/brs/grb/cy12splash_brs_grb_010.wav
+<region> lovel=106 hivel=116 amp_velcurve_116=1 sample=../samples/cymbals/cy12splash/brs/grb/cy12splash_brs_grb_011.wav
+<region> lovel=117 hivel=127 amp_velcurve_127=1 sample=../samples/cymbals/cy12splash/brs/grb/cy12splash_brs_grb_012.wav

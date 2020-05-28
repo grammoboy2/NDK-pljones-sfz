@@ -1,0 +1,2 @@
+<region> lovel=1 hivel=63 amp_velcurve_63=1 sample=../samples/snares/sn14rock/stx/snare_off/rms/sn14rock_stxl_rms_009x.wav
+<region> lovel=64 hivel=127 amp_velcurve_127=1 sample=../samples/snares/sn14rock/stx/snare_off/rms/sn14rock_stxl_rms_015x.wav

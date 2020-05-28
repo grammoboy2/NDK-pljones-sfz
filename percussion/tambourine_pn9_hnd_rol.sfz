@@ -1,0 +1,5 @@
+<region> lovel=1 hivel=25 amp_velcurve_25=1 sample=../samples/percussion/pn9tambourine/hnd/rol/pn9tambourine_hnd_rol_001.wav
+<region> lovel=26 hivel=50 amp_velcurve_50=1 sample=../samples/percussion/pn9tambourine/hnd/rol/pn9tambourine_hnd_rol_002.wav
+<region> lovel=51 hivel=75 amp_velcurve_75=1 sample=../samples/percussion/pn9tambourine/hnd/rol/pn9tambourine_hnd_rol_003.wav
+<region> lovel=76 hivel=101 amp_velcurve_101=1 sample=../samples/percussion/pn9tambourine/hnd/rol/pn9tambourine_hnd_rol_004.wav
+<region> lovel=102 hivel=127 amp_velcurve_127=1 sample=../samples/percussion/pn9tambourine/hnd/rol/pn9tambourine_hnd_rol_005.wav

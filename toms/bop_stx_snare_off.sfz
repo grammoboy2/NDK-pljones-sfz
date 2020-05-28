@@ -1,0 +1,16 @@
+#define $tm8_l 26
+#define $tm8_r 50
+#define $tm10_l 24
+#define $tm10_r 48
+#define $tm12_l 23
+#define $tm12_r 47
+#define $tm14_l 21
+#define $tm14_r 45
+#define $tm16_l 19
+#define $tm16_r 43
+
+#include "toms/tm10_bop_stx_snare_off.inc"
+#include "toms/tm12_bop_stx_snare_off.inc"
+#include "toms/tm14_bop_stx_snare_off.inc"
+#include "toms/tm16_bop_stx_snare_off.inc"
+#include "toms/tm8_bop_stx_snare_off.inc"

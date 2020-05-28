@@ -1,0 +1,6 @@
+<region> lovel=1 hivel=21 amp_velcurve_21=1 sample=../samples/snares/sn10jungle/stx/snare_on/rmh/sn10wjungle_stxr_rmh_009x.wav
+<region> lovel=22 hivel=42 amp_velcurve_42=1 sample=../samples/snares/sn10jungle/stx/snare_on/rmh/sn10wjungle_stxr_rmh_011x.wav
+<region> lovel=43 hivel=63 amp_velcurve_63=1 sample=../samples/snares/sn10jungle/stx/snare_on/rmh/sn10wjungle_stxr_rmh_013x.wav
+<region> lovel=64 hivel=84 amp_velcurve_84=1 sample=../samples/snares/sn10jungle/stx/snare_on/rmh/sn10wjungle_stxr_rmh_015x.wav
+<region> lovel=85 hivel=105 amp_velcurve_105=1 sample=../samples/snares/sn10jungle/stx/snare_on/rmh/sn10wjungle_stxr_rmh_021x.wav
+<region> lovel=106 hivel=127 amp_velcurve_127=1 sample=../samples/snares/sn10jungle/stx/snare_on/rmh/sn10wjungle_stxr_rmh_023x.wav

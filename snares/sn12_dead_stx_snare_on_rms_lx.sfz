@@ -1,0 +1,4 @@
+<region> lovel=1 hivel=31 amp_velcurve_31=1 sample=../samples/snares/sn12dead/stx/snare_on/rms/sn12dead_stxl_rms_002x.wav
+<region> lovel=32 hivel=63 amp_velcurve_63=1 sample=../samples/snares/sn12dead/stx/snare_on/rms/sn12dead_stxl_rms_003x.wav
+<region> lovel=64 hivel=95 amp_velcurve_95=1 sample=../samples/snares/sn12dead/stx/snare_on/rms/sn12dead_stxl_rms_004x.wav
+<region> lovel=96 hivel=127 amp_velcurve_127=1 sample=../samples/snares/sn12dead/stx/snare_on/rms/sn12dead_stxl_rms_017x.wav

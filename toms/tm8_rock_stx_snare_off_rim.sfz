@@ -1,0 +1,17 @@
+<region> lovel=1 hivel=7 amp_velcurve_7=1 sample=../samples/toms/tm8rock/stx/snare_off/rim/tm8rock_stx_rim_001.wav
+<region> lovel=8 hivel=14 amp_velcurve_14=1 sample=../samples/toms/tm8rock/stx/snare_off/rim/tm8rock_stx_rim_002.wav
+<region> lovel=15 hivel=21 amp_velcurve_21=1 sample=../samples/toms/tm8rock/stx/snare_off/rim/tm8rock_stx_rim_003.wav
+<region> lovel=22 hivel=28 amp_velcurve_28=1 sample=../samples/toms/tm8rock/stx/snare_off/rim/tm8rock_stx_rim_004.wav
+<region> lovel=29 hivel=35 amp_velcurve_35=1 sample=../samples/toms/tm8rock/stx/snare_off/rim/tm8rock_stx_rim_005.wav
+<region> lovel=36 hivel=42 amp_velcurve_42=1 sample=../samples/toms/tm8rock/stx/snare_off/rim/tm8rock_stx_rim_006.wav
+<region> lovel=43 hivel=49 amp_velcurve_49=1 sample=../samples/toms/tm8rock/stx/snare_off/rim/tm8rock_stx_rim_007.wav
+<region> lovel=50 hivel=56 amp_velcurve_56=1 sample=../samples/toms/tm8rock/stx/snare_off/rim/tm8rock_stx_rim_008.wav
+<region> lovel=57 hivel=63 amp_velcurve_63=1 sample=../samples/toms/tm8rock/stx/snare_off/rim/tm8rock_stx_rim_009.wav
+<region> lovel=64 hivel=71 amp_velcurve_71=1 sample=../samples/toms/tm8rock/stx/snare_off/rim/tm8rock_stx_rim_010.wav
+<region> lovel=72 hivel=79 amp_velcurve_79=1 sample=../samples/toms/tm8rock/stx/snare_off/rim/tm8rock_stx_rim_011.wav
+<region> lovel=80 hivel=87 amp_velcurve_87=1 sample=../samples/toms/tm8rock/stx/snare_off/rim/tm8rock_stx_rim_012.wav
+<region> lovel=88 hivel=95 amp_velcurve_95=1 sample=../samples/toms/tm8rock/stx/snare_off/rim/tm8rock_stx_rim_013.wav
+<region> lovel=96 hivel=103 amp_velcurve_103=1 sample=../samples/toms/tm8rock/stx/snare_off/rim/tm8rock_stx_rim_014.wav
+<region> lovel=104 hivel=111 amp_velcurve_111=1 sample=../samples/toms/tm8rock/stx/snare_off/rim/tm8rock_stx_rim_015.wav
+<region> lovel=112 hivel=119 amp_velcurve_119=1 sample=../samples/toms/tm8rock/stx/snare_off/rim/tm8rock_stx_rim_016.wav
+<region> lovel=120 hivel=127 amp_velcurve_127=1 sample=../samples/toms/tm8rock/stx/snare_off/rim/tm8rock_stx_rim_017.wav

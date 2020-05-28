@@ -1,0 +1,8 @@
+<region> lovel=1 hivel=15 amp_velcurve_15=1 sample=../samples/snares/sn14rock/brs/snare_on/sws/sn14wrock_brs_sws_002p.wav
+<region> lovel=16 hivel=31 amp_velcurve_31=1 sample=../samples/snares/sn14rock/brs/snare_on/sws/sn14wrock_brs_sws_003p.wav
+<region> lovel=32 hivel=47 amp_velcurve_47=1 sample=../samples/snares/sn14rock/brs/snare_on/sws/sn14wrock_brs_sws_004p.wav
+<region> lovel=48 hivel=63 amp_velcurve_63=1 sample=../samples/snares/sn14rock/brs/snare_on/sws/sn14wrock_brs_sws_005p.wav
+<region> lovel=64 hivel=79 amp_velcurve_79=1 sample=../samples/snares/sn14rock/brs/snare_on/sws/sn14wrock_brs_sws_006p.wav
+<region> lovel=80 hivel=95 amp_velcurve_95=1 sample=../samples/snares/sn14rock/brs/snare_on/sws/sn14wrock_brs_sws_008p.wav
+<region> lovel=96 hivel=111 amp_velcurve_111=1 sample=../samples/snares/sn14rock/brs/snare_on/sws/sn14wrock_brs_sws_009p.wav
+<region> lovel=112 hivel=127 amp_velcurve_127=1 sample=../samples/snares/sn14rock/brs/snare_on/sws/sn14wrock_brs_sws_010p.wav

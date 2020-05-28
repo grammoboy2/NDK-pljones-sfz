@@ -1,0 +1,16 @@
+<region> lovel=1 hivel=7 amp_velcurve_7=1 sample=../samples/_nsmr/pre_roll/hh14/spl/hh14_p25_stx_spl_001.wav
+<region> lovel=8 hivel=15 amp_velcurve_15=1 sample=../samples/_nsmr/pre_roll/hh14/spl/hh14_p25_stx_spl_002.wav
+<region> lovel=16 hivel=23 amp_velcurve_23=1 sample=../samples/_nsmr/pre_roll/hh14/spl/hh14_p25_stx_spl_003.wav
+<region> lovel=24 hivel=31 amp_velcurve_31=1 sample=../samples/_nsmr/pre_roll/hh14/spl/hh14_p25_stx_spl_004.wav
+<region> lovel=32 hivel=39 amp_velcurve_39=1 sample=../samples/_nsmr/pre_roll/hh14/spl/hh14_p25_stx_spl_005.wav
+<region> lovel=40 hivel=47 amp_velcurve_47=1 sample=../samples/_nsmr/pre_roll/hh14/spl/hh14_p25_stx_spl_006.wav
+<region> lovel=48 hivel=55 amp_velcurve_55=1 sample=../samples/_nsmr/pre_roll/hh14/spl/hh14_p25_stx_spl_007.wav
+<region> lovel=56 hivel=63 amp_velcurve_63=1 sample=../samples/_nsmr/pre_roll/hh14/spl/hh14_p25_stx_spl_008.wav
+<region> lovel=64 hivel=71 amp_velcurve_71=1 sample=../samples/_nsmr/pre_roll/hh14/spl/hh14_p25_stx_spl_009.wav
+<region> lovel=72 hivel=79 amp_velcurve_79=1 sample=../samples/_nsmr/pre_roll/hh14/spl/hh14_p25_stx_spl_010.wav
+<region> lovel=80 hivel=87 amp_velcurve_87=1 sample=../samples/_nsmr/pre_roll/hh14/spl/hh14_p25_stx_spl_011.wav
+<region> lovel=88 hivel=95 amp_velcurve_95=1 sample=../samples/_nsmr/pre_roll/hh14/spl/hh14_p25_stx_spl_012.wav
+<region> lovel=96 hivel=103 amp_velcurve_103=1 sample=../samples/_nsmr/pre_roll/hh14/spl/hh14_p25_stx_spl_013.wav
+<region> lovel=104 hivel=111 amp_velcurve_111=1 sample=../samples/_nsmr/pre_roll/hh14/spl/hh14_p25_stx_spl_014.wav
+<region> lovel=112 hivel=119 amp_velcurve_119=1 sample=../samples/_nsmr/pre_roll/hh14/spl/hh14_p25_stx_spl_015.wav
+<region> lovel=120 hivel=127 amp_velcurve_127=1 sample=../samples/_nsmr/pre_roll/hh14/spl/hh14_p25_stx_spl_016.wav

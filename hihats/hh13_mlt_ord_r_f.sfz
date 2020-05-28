@@ -1,0 +1,15 @@
+<region> lovel=1 hivel=8 amp_velcurve_8=1 sample=../samples/hihats/hh13/mlt/f/ord/hh13_mltr_ford_001.wav
+<region> lovel=9 hivel=16 amp_velcurve_16=1 sample=../samples/hihats/hh13/mlt/f/ord/hh13_mltr_ford_002.wav
+<region> lovel=17 hivel=24 amp_velcurve_24=1 sample=../samples/hihats/hh13/mlt/f/ord/hh13_mltr_ford_003.wav
+<region> lovel=25 hivel=32 amp_velcurve_32=1 sample=../samples/hihats/hh13/mlt/f/ord/hh13_mltr_ford_004.wav
+<region> lovel=33 hivel=40 amp_velcurve_40=1 sample=../samples/hihats/hh13/mlt/f/ord/hh13_mltr_ford_005.wav
+<region> lovel=41 hivel=48 amp_velcurve_48=1 sample=../samples/hihats/hh13/mlt/f/ord/hh13_mltr_ford_006.wav
+<region> lovel=49 hivel=56 amp_velcurve_56=1 sample=../samples/hihats/hh13/mlt/f/ord/hh13_mltr_ford_007.wav
+<region> lovel=57 hivel=64 amp_velcurve_64=1 sample=../samples/hihats/hh13/mlt/f/ord/hh13_mltr_ford_008.wav
+<region> lovel=65 hivel=73 amp_velcurve_73=1 sample=../samples/hihats/hh13/mlt/f/ord/hh13_mltr_ford_009.wav
+<region> lovel=74 hivel=82 amp_velcurve_82=1 sample=../samples/hihats/hh13/mlt/f/ord/hh13_mltr_ford_010.wav
+<region> lovel=83 hivel=91 amp_velcurve_91=1 sample=../samples/hihats/hh13/mlt/f/ord/hh13_mltr_ford_011.wav
+<region> lovel=92 hivel=100 amp_velcurve_100=1 sample=../samples/hihats/hh13/mlt/f/ord/hh13_mltr_ford_012.wav
+<region> lovel=101 hivel=109 amp_velcurve_109=1 sample=../samples/hihats/hh13/mlt/f/ord/hh13_mltr_ford_013.wav
+<region> lovel=110 hivel=118 amp_velcurve_118=1 sample=../samples/hihats/hh13/mlt/f/ord/hh13_mltr_ford_014.wav
+<region> lovel=119 hivel=127 amp_velcurve_127=1 sample=../samples/hihats/hh13/mlt/f/ord/hh13_mltr_ford_015.wav
